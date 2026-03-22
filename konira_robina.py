@@ -142,5 +142,3 @@ this desmonstrates declaring and assigning a variable
 # example
 score = 0
 # the variable score is initialised with 0.
-
-
